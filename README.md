@@ -106,4 +106,23 @@ box_off_num	0.441452	0.259674	0.544265	0.111179	1.000000
 -이렇게 구분하는 경우 train 데이터에서는 잘 구분될 수 있지만 새로운 데이터에서는 의미가 없을 수 있다.
 -거장 감독이지만 train set에 없다면 새로운 데이터를 검증하기 어려우며, 신인 감독인 경우에도 마찬가지일 수 있다.
 
+### num_staff 스태프 수
+- 스태프 수가 많을수록 제작비가 많이 들어갔다는 의미이니, 관객을 많이 모을 수 있을까?
+- 스태프 수에 따라 소형, 중형, 대형으로 나누어 보았다.
+
+### num_actor
+- 주연 배우 수
+
+### 원핫인코딩
+![image](https://github.com/overthemoonlala/movie/assets/99886389/b399f350-3ee9-4785-84b7-6b0fa18a1e65)
+
+
+### Modeling - Prediction - Submission
+![image](https://github.com/overthemoonlala/movie/assets/99886389/32975664-2b25-412f-b54f-f2b6bce24e8b)
+![image](https://github.com/overthemoonlala/movie/assets/99886389/86f4495d-7f8a-4f7f-9808-67f86b2743b7)
+![image](https://github.com/overthemoonlala/movie/assets/99886389/056f0232-67ed-4aad-b7fa-3f2e1af5deca)
+![image](https://github.com/overthemoonlala/movie/assets/99886389/6a425368-d19a-4f11-a6d4-559f6c44029a)
+![image](https://github.com/overthemoonlala/movie/assets/99886389/29ce2417-db82-4659-827a-ae641bc59c1b)
+
+
 
