@@ -23,6 +23,7 @@
 - box_off_num : 관객수
 
 box_off_num :예측피처
+---
 
 
 
