@@ -7,6 +7,7 @@
 - test.csv
 - submission.csv
 
+---
 #### Column
 - title : 영화의 제목
 - distributor : 배급사
@@ -20,5 +21,9 @@
 - num_staff : 스텝수
 - num_actor : 주연배우수
 - box_off_num : 관객수
+
+box_off_num :예측피처
+
+
 
 
