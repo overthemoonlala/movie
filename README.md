@@ -22,9 +22,13 @@
 - num_actor : 주연배우수
 - box_off_num : 관객수
 
-box_off_num :예측피처
+##### box_off_num :예측피처
 ---
 
+장르별 관객수 막대그래프
+![image](https://github.com/overthemoonlala/movie/assets/99886389/4a0cae86-b9aa-428d-aa7f-c938ec7df292)
+
+드라마/코미디/느와르/액션 순으로 관객 수가 높다
 
 
 
