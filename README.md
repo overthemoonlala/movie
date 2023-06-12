@@ -107,10 +107,8 @@ box_off_num	0.441452	0.259674	0.544265	0.111179	1.000000
 
 ### num_staff 스태프 수
 - 스태프 수가 많을수록 제작비가 많이 들어갔다는 의미이니, 관객을 많이 모을 수 있을까?
-- 스태프 수에 따라 소형, 중형, 대형으로 나누어 보았다.
+![image](https://github.com/overthemoonlala/movie/assets/99886389/e2608c31-c65e-4de2-abe2-be338f2144ea)
 
-### num_actor
-- 주연 배우 수
 
 ### 원핫인코딩
 ![image](https://github.com/overthemoonlala/movie/assets/99886389/b399f350-3ee9-4785-84b7-6b0fa18a1e65)
