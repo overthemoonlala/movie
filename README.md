@@ -42,8 +42,7 @@ num_staff	0.623205	0.450706	1.000000	0.077871	0.544265
 num_actor	0.114153	0.014006	0.077871	1.000000	0.111179
 box_off_num	0.441452	0.259674	0.544265	0.111179	1.000000
 
-![image](https://github.com/overthemoonlala/movie/assets/99886389/82608efc-77b6-4d49-bd6d-392f106eec4e)
-
+![image](https://github.com/overthemoonlala/movie/assets/99886389/4d71254e-fa59-4ed6-8914-f6cc68ab496e)
 ---
 ## 각각의 변수로 살펴보기
 
